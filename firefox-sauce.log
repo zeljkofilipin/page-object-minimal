@@ -1,0 +1,37 @@
+006:53:54.480 INFO - Launching a standalone server
+1Setting system property webdriver.firefox.logfile to /home/chef/log/firefox.log
+206:53:54.535 INFO - Java: Sun Microsystems Inc. 20.45-b01
+306:53:54.535 INFO - OS: Linux 3.13.0-32-generic i386
+406:53:54.550 INFO - v2.45.0, with Core v2.45.0. Built from revision 5017cb8
+506:53:54.656 INFO - Default driver org.openqa.selenium.ie.InternetExplorerDriver registration is skipped: registration capabilities Capabilities [{platform=WINDOWS, ensureCleanSession=true, browserName=internet explorer, version=}] does not match with current platform: LINUX
+606:53:54.688 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4443/wd/hub
+706:53:54.688 INFO - Version Jetty/5.1.x
+806:53:54.690 INFO - Started HttpContext[/selenium-server/driver,/selenium-server/driver]
+906:53:54.692 INFO - Started HttpContext[/selenium-server,/selenium-server]
+1006:53:54.692 INFO - Started HttpContext[/,/]
+1106:53:54.716 INFO - Started org.openqa.jetty.jetty.servlet.ServletHandler@1d225a7
+1206:53:54.716 INFO - Started HttpContext[/wd,/wd]
+1306:53:54.720 INFO - Started SocketListener on 0.0.0.0:4443
+1406:53:54.720 INFO - Started org.openqa.jetty.jetty.Server@1125127
+1506:53:55.983 INFO - Executing: [new session: Capabilities [{javascriptEnabled=true, cssSelectorsEnabled=true, browserName=firefox, nativeEvents=false, rotatable=false, webdriver.remote.quietExceptions=true, takesScreenshot=true}]])
+1606:53:56.004 INFO - Creating a new session for Capabilities [{javascriptEnabled=true, cssSelectorsEnabled=true, browserName=firefox, nativeEvents=false, rotatable=false, webdriver.remote.quietExceptions=true, takesScreenshot=true}]
+1706:53:59.437 INFO - Done: [new session: Capabilities [{javascriptEnabled=true, cssSelectorsEnabled=true, browserName=firefox, nativeEvents=false, rotatable=false, webdriver.remote.quietExceptions=true, takesScreenshot=true}]]
+1806:53:59.814 INFO - Executing: [execute script: return screen.width, []])
+1906:53:59.832 INFO - Done: [execute script: return screen.width, []]
+2006:53:59.838 INFO - Executing: [execute script: return screen.height, []])
+2106:53:59.895 INFO - Done: [execute script: return screen.height, []]
+2206:53:59.899 INFO - Executing: [set window position])
+2306:53:59.950 INFO - Done: [set window position]
+2406:53:59.956 INFO - Executing: [set window size])
+2506:54:00.027 INFO - Done: [set window size]
+2606:54:00.033 INFO - Executing: [maximise window])
+2706:54:00.091 INFO - Done: [maximise window]
+2806:54:00.097 INFO - Executing: [get window handles])
+2906:54:00.143 INFO - Done: [get window handles]
+3006:54:00.605 INFO - Executing: [get: http://en.wikipedia.beta.wmflabs.org/wiki/Main_Page])
+3106:54:04.055 INFO - Done: [get: http://en.wikipedia.beta.wmflabs.org/wiki/Main_Page]
+3206:54:04.797 INFO - Executing: [find element: By.cssSelector: a[href='/w/index.php?title=Main_Page&action=history']])
+3306:54:04.869 INFO - Done: [find element: By.cssSelector: a[href='/w/index.php?title=Main_Page&action=history']]
+3406:54:05.243 INFO - Executing: [is displayed: 0 [[FirefoxDriver: firefox on LINUX (02077722-4e63-4857-bc82-963b1bec8192)] -> css selector: a[href='/w/index.php?title=Main_Page&action=history']]])
+3506:54:05.260 INFO - Done: [is displayed: 0 [[FirefoxDriver: firefox on LINUX (02077722-4e63-4857-bc82-963b1bec8192)] -> css selector: a[href='/w/index.php?title=Main_Page&action=history']]]
+36
