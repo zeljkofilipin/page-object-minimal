@@ -1,0 +1,18 @@
+webdriver [150401 15:44:09.85] [  0.001s] [fxdriver.badCertListener] Found preference for webdriver_assume_untrusted_issuer: true
+webdriver [150401 15:44:09.85] [  0.001s] [fxdriver.badCertListener] Found preference for webdriver_accept_untrusted_certs: true
+webdriver [150401 15:44:09.85] [  0.001s] [fxdriver.WdCertOverrideService] Accept untrusted certificates: true
+webdriver [150401 15:44:09.90] [  0.078s] [fxdriver.WebDriverServer] Using native events: false
+webdriver [150401 15:44:09.90] [  0.079s] [fxdriver.Utils] Loading: resource://fxdriver/evaluate.js
+webdriver [150401 15:44:09.90] [  0.079s] [fxdriver.Utils] Done reading: resource://fxdriver/evaluate.js
+webdriver [150401 15:44:10.19] [  0.294s] [fxdriver.nsCommandProcessor] Received command: newSession
+webdriver [150401 15:44:10.23] [  0.019s] [fxdriver.wdSessionStoreService] Setting preferences based on required capabilities
+webdriver [150401 15:44:10.23] [  0.020s] [fxdriver.wdSessionStoreService] Setting capability nativeEvents (webdriver_enable_native_events) to false
+webdriver [150401 15:44:10.23] [  0.342s] [fxdriver.nsCommandProcessor] Created a new session with id: 528c0c26-b1df-8d49-a136-43837c060436
+webdriver [150401 15:44:10.29] [  0.400s] [fxdriver.nsCommandProcessor] Received command: get
+webdriver [150401 15:44:10.29] [  0.061s] [fxdriver.wdSession] setWaitForPageLoad false
+webdriver [150401 15:44:10.30] [  0.063s] [fxdriver.wdSession] setWaitForPageLoad true
+webdriver [150401 15:44:10.30] [  0.483s] [fxdriver.ServerFactory] Driven by WebDriver version 2.45.0
+webdriver [150401 15:44:15.09] [  5.272s] [fxdriver.PatientListener] request status is 0
+webdriver [150401 15:44:15.14] [  5.247s] [fxdriver.nsCommandProcessor] Received command: findElement
+webdriver [150401 15:44:15.22] [  5.323s] [fxdriver.nsCommandProcessor] Received command: isElementDisplayed
+webdriver [150401 15:44:15.26] [  5.365s] [fxdriver.nsCommandProcessor] Received command: quit
