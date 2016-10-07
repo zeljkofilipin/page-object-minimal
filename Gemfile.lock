@@ -10,7 +10,7 @@ GEM
       i18n (~> 0.5)
     ffi (1.9.14)
     i18n (0.7.0)
-    page-object (1.0.3)
+    page-object (1.2.0)
       page_navigation (>= 0.9)
       selenium-webdriver (>= 2.44.0)
       watir-webdriver (>= 0.6.11)
@@ -30,7 +30,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  page-object (~> 1.0.3)
+  page-object (~> 1.2)
 
 BUNDLED WITH
    1.10.6
